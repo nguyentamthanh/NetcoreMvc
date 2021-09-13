@@ -1,0 +1,82 @@
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\appsettings.Development.json
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\appsettings.json
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\Project_Demo.exe
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\Project_Demo.deps.json
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\Project_Demo.runtimeconfig.json
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\Project_Demo.runtimeconfig.dev.json
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\Project_Demo.dll
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\ref\Project_Demo.dll
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\Project_Demo.pdb
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\Project_Demo.Views.dll
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\bin\Debug\net5.0\Project_Demo.Views.pdb
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.csproj.AssemblyReference.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.AssemblyInfoInputs.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.AssemblyInfo.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.csproj.CoreCompileInputs.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.MvcApplicationPartsAssemblyInfo.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorAssemblyInfo.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorAssemblyInfo.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\staticwebassets\Project_Demo.StaticWebAssets.Manifest.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\staticwebassets\Project_Demo.StaticWebAssets.xml
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\scopedcss\bundle\Project_Demo.styles.css
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.TagHelpers.input.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.TagHelpers.output.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorCoreGenerate.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorTargetAssemblyInfo.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorTargetAssemblyInfo.cs
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.Views.pdb
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.dll
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\ref\Project_Demo.dll
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.pdb
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.genruntimeconfig.cache
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Project_Demo.csproj.CopyComplete
+E:\HOC O TRUONG\Mã nguồn mở chuyên ngành TKT\Bài tập\Dotnet MVC\Project_Demo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\appsettings.Development.json
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\appsettings.json
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\Project_Demo.exe
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\Project_Demo.deps.json
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\Project_Demo.runtimeconfig.json
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\Project_Demo.runtimeconfig.dev.json
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\Project_Demo.dll
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\ref\Project_Demo.dll
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\Project_Demo.pdb
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\Project_Demo.Views.dll
+E:\HOC O TRUONG\Project_Demo\bin\Debug\net5.0\Project_Demo.Views.pdb
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.csproj.AssemblyReference.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.GeneratedMSBuildEditorConfig.editorconfig
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.AssemblyInfoInputs.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.AssemblyInfo.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.csproj.CoreCompileInputs.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.MvcApplicationPartsAssemblyInfo.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorAssemblyInfo.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorAssemblyInfo.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\staticwebassets\Project_Demo.StaticWebAssets.Manifest.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\staticwebassets\Project_Demo.StaticWebAssets.xml
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\scopedcss\bundle\Project_Demo.styles.css
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.TagHelpers.input.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.TagHelpers.output.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorCoreGenerate.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Razor\Views\Shared\_LayoutNew.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorTargetAssemblyInfo.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.RazorTargetAssemblyInfo.cs
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.Views.pdb
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.dll
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\ref\Project_Demo.dll
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.pdb
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.genruntimeconfig.cache
+E:\HOC O TRUONG\Project_Demo\obj\Debug\net5.0\Project_Demo.csproj.CopyComplete
