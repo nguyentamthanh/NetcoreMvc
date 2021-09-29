@@ -76,7 +76,7 @@ namespace PROJECT_DEMO.Controllers
             }
             //tra ve neu co loi
             catch{
-                ModelState.AddModelError("","Mat ket noi toi may chu")
+                ModelState.AddModelError("","Mat ket noi toi may chu");
                 return RedirectToAction(nameof(Index));
             } 
             // neu rang buoc k thoa man tra ve view
