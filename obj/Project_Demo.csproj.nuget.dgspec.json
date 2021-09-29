@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\NetcoreMVC\\Project_Demo\\Project_Demo.csproj": {}
+    "C:\\Users\\thanh\\source\\repos\\NetcoreMvc\\Project_Demo.csproj": {}
   },
   "projects": {
-    "E:\\NetcoreMVC\\Project_Demo\\Project_Demo.csproj": {
+    "C:\\Users\\thanh\\source\\repos\\NetcoreMvc\\Project_Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\NetcoreMVC\\Project_Demo\\Project_Demo.csproj",
+        "projectUniqueName": "C:\\Users\\thanh\\source\\repos\\NetcoreMvc\\Project_Demo.csproj",
         "projectName": "Project_Demo",
-        "projectPath": "E:\\NetcoreMVC\\Project_Demo\\Project_Demo.csproj",
+        "projectPath": "C:\\Users\\thanh\\source\\repos\\NetcoreMvc\\Project_Demo.csproj",
         "packagesPath": "C:\\Users\\thanh\\.nuget\\packages\\",
-        "outputPath": "E:\\NetcoreMVC\\Project_Demo\\obj\\",
+        "outputPath": "C:\\Users\\thanh\\source\\repos\\NetcoreMvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thanh\\AppData\\Roaming\\NuGet\\NuGet.Config",
